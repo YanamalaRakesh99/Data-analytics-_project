@@ -1,2 +1,3 @@
 # Data-analytics-_project
-Analyzed hotel performance data to track occupancy, ADR, and RevPAR. Cleaned and analyzed data using Python, SQL, and Excel, and built interactive Power BI dashboards with DAX to identify trends, seasonal demand, and revenue improvement opportunities.
+
+Developed an end-to-end data analytics project using Python, Excel, SQL, and Power BI. Performed data cleaning, exploratory data analysis, and KPI creation. Built interactive dashboards to identify trends, improve decision-making, and present actionable business insights to stakeholders.
