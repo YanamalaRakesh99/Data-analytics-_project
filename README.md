@@ -4,12 +4,12 @@ Developed an end-to-end data analytics project using Python, Excel, SQL, and Pow
 
 Roles & Responsibilities
 
-•Collected data from multiple sources such as Excel files and databases.
-•Cleaned and prepared data using Microsoft Excel (removing duplicates, handling missing values, formatting, and data validation).
-Performed additional data transformation and cleansing in Power BI Power Query.
-•Created relationships between tables and built a proper data model in Power BI.
-•Developed calculated columns and measures using DAX to track key metrics and KPIs.
-•Designed interactive dashboards and reports with filters, slicers, and visuals.
-•Analyzed trends, patterns, and performance metrics to generate actionable insights.
-Validated data accuracy and ensured consistency across reports.
-•Presented insights through dashboards to support management and business decision-making.
+Extracted required data from relational databases using SQL queries (SELECT, WHERE, JOIN, GROUP BY, subqueries).
+Cleaned and organized data in Microsoft Excel by handling missing values, removing duplicates, and standardizing formats.
+Performed data transformation and cleansing using Power BI Power Query.
+Built and managed relationships between multiple tables to create an efficient data model.
+Created calculated columns and measures using DAX for KPIs and performance metrics.
+Designed interactive Power BI dashboards with slicers, filters, and drill-through features.
+Analyzed trends, comparisons, and business performance to derive actionable insights.
+Ensured data accuracy and consistency across SQL, Excel, and Power BI reports.
+Presented insights through visual reports to support data-driven decision-making.
